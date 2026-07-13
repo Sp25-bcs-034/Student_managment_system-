@@ -7,7 +7,7 @@ The Student Management System (SMS) is a Java desktop application developed as a
 
 The project combines a Console Application and a Java Swing GUI, allowing users to manage students, courses, transcripts, GPA calculations, and persistent data storage through serialization.
 
-This project demonstrates real-world implementation of Java programming concepts, including OOP, event-driven programming, file handling, generics, and GUI development.![Uploading WhatsApp Image 2026-07-04 at 10.05.52 AM.jpeg…]()
+This project demonstrates real-world implementation of Java programming concepts, including OOP, event-driven programming, file handling, generics, and GUI development.
 
 ## Project Highlights
 
